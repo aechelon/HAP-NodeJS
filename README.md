@@ -20,3 +20,5 @@ Special thanks to [Alex Skalozub](https://twitter.com/pieceofsummer), who revers
 [There](http://instagram.com/p/t4cPlcDksQ/) is a video demo running this project on Intel Edison.
 
 If you are interested in HAP over BTLE, you might want to check [this](https://gist.github.com/KhaosT/6ff09ba71d306d4c1079).
+
+On Windows install the OpenSSL binary distribution to its default install location (c:\OpenSSL-Win32 for 32-bit and OpenSSL-Win64 for 64-bit) from https://www.openssl.org/related/binaries.html
